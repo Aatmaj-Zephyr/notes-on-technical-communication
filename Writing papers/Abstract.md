@@ -1,0 +1,36 @@
+# Abstract
+
+- Should entice reader to read more. Give hints of key new ideas if possible. 
+- Try for one sentence each on motive, method, key results, conclusions. Don’t exceed 3 sentences on any one.
+- Should contain
+	- One or two sentences of problem defination
+	- The research question 
+	- The solution
+	- Significant results and evidences 
+- Add keywords (not buzzwords) in writing prose of abstract (different from keywords section)
+	- Generic, broad-based, and related the major concept of the paper
+	- Keywords help in reviewer identification & also visibility of your paper
+- Abstract summarizes your contributions in simple words.  
+- There may be a word limit (see journal site).  
+- Should make sense when read in isolation (used in abstracting/indexing, review requests, etc.).  
+- A clear and accurate recapitulation of the paper.  
+- Usually written as one or two paragraphs.  
+- Words should be simple, jargon avoided, and abbreviations omitted.  
+- Do not refer to any table or figure in the main text.  
+- Citations are not usually included, unless absolutely necessary.  
+- Most of the part is written in present tense.  
+- Abstract is your best hook
+- Not too long, not too short
+- An abstract is neither a summary nor an outline of the paper.
+  - A summary is a short, matter-of-fact description.
+  - A summary tells us what to expect (or what to remember).
+  - A conclusion tells us the moral of the story.
+  - An abstract tells us why we should read what is to come.
+- A checklist for abstract making:
+	- [ ] Motivation  
+	- [ ]  Problem statement  
+	- [ ] Approach  
+	- [ ] Results  
+	- [ ] Conclusions  
+
+- Must contain a statement that catches attention.
