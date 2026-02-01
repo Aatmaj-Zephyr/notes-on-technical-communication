@@ -36,3 +36,11 @@
 | 2            | Seriously reading paper.     | Seriously reviewing paper. Reviewer starts writing review for improvement at this stage.                                          | Main content, diagrams, algorithms, result analysis, research effort                                                       | No more sale talk- go into details. Need to explain what is done in details.                              | Algorithms are read here. Add lot of diagrams to make it easier. If this stage is passed, then your paper may be cited in main survey.                                                                                              |
 | 3,4,5        | Analysing paper              | Considering paper for potential accepts (If you reach this stage 🙃) Decision for acceptance/rejection done at this point.        | "Aha" & "Wow" moments in your paper,  mathematical rigour                                                                  | Answer all "Why" questions of reader, provide enough supplementaty material to satisfy readers curiosity. | Mathematics is read here. If this stage is passed, then your paper will be compared with other approaches, greatly increasing visibility.                                                                                           |
 
+
+### Grass is always green on the other side
+
+- Remember that the papers mostly are peer reviewed
+- Your 'peers' may not know your identity, but they know your research.
+- These 'peers' are not free from bias and prejudice towards a certain research aspect
+- They may always compare your work against their own
+- they may always feel your work is inferior when compared to theirs
