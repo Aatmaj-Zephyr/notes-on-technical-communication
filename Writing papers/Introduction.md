@@ -13,7 +13,6 @@
 - While discussing this avoid discussing HOW to compute the outputs, but just focus on WHAT outputs are desirable/acceptable.  
 - Give examples. The problem statement should be clear to every reader, even those who arent paying 100% attention. 
 - Give the motivation for solving the problem.  Eg real life situation
-- Identification of the research gap that you want to fill
 - What problem are you solving? Use of statistics may provide depth. (Eg $ 100M productivity loss happens every year due to downtime of servers)
 - Discuss about the background information on the topic (Eg I dont know why server goes down)
 - The introduction should also give some idea as to why the problem is hard (non trivial) for (type 1 & type 2). Why do simple algorithms not work (for type 2 people)? and most importantly, why should we solve the problem? (For type 1, type2 and type 3)
@@ -22,6 +21,12 @@
 - Also clarify the scope of the solution
 - Make sure that in all this, the problem defination and motivation is not lost
 
+### Research  gap
+- Identification of the research gap that you want to fill
+- Breifly describe the present litarature and their shortcommings (nota thorough literature survey, just highlight your plus points and their minus points.
+- Explain (in 1-2 sentences) the major schools of thought and which one you are following
+- Spot the word "however" in the paper
+- Tell what you are going to do to address the research gap
 
 ### 5 Why questions
 
@@ -33,6 +38,7 @@
 | How                         | **How are you solving it?**        | **Your solution**                                    | Two or three lines      | Only glimpse in introduction. Rest in later paper                            | What is different about your solution                                                                                                            | What is different about your solution                                                                             |
 | What                        | **What are the advantages?**       | **Your novelty**                                     | Two or three lines      | Gist here rest in result section                                             | Relative advantages overview. (refer to results section)                                                                                         | Absolute + relative advantages                                                                                    |
 | **Most important question** | **Why should we read your paper?** | **Your novelty**, **Why does your research matter?** | Highlight contributions | Highlight contributions                                                      | Relative advantages overview. (refer to results section)                                                                                         | Highlight contributions                                                                                           |
+
 
 ### The end of the intro
 - Mention about the 'good thing' in breif towards the end of introduction
