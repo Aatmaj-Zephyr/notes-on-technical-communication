@@ -1,0 +1,13 @@
+# Your Title
+- First impression
+- Most important part of your work
+- Gives you direction when you get confused about your research 
+- Influences if the reader is interested in reading your work or not
+- Decides direction of future work
+- Title should reflect your contributions
+- Combine right words in correct order
+- Should be interesting and fascinating
+- Should neither be too short nor too long 
+- Avoid "a study of " etc
+- Avoid acronyms in Title unless well known (GAN ✔️ DDPG ❌)
+- Avoid commercial product names  (MATLAB)
