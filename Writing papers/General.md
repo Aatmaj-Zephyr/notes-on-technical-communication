@@ -52,6 +52,8 @@
 * Cohesion in between sections
 
 * Minimize forward referencing
+  
+* Reading a paper should answer why questions either immediatelty (or forward reference it, but avoid). If you dont answer a particular question that may come into readrs mind, it will stay there and distrat (and distress) the reader from things commming ahead
 
 ---
 
