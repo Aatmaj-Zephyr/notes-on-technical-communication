@@ -25,6 +25,7 @@
 * rigour of solution =
   mathematical formulation x algorithm novelty x "aha" & "wow" moments
 
+* Your paper should be detailed enough so that it can be reimplemnted easily by others. (It may not be possible to write details in the main content due to page limits, but there is always supplemnentary material) 
 ---
 
 ### Structure, Flow & Organization
@@ -80,18 +81,6 @@
 ### Reader Behavior & Practical Rules
 
 * The SSC rule -> read only first and last parts of answer, rest is ignored 🙃
-
----
-
-### Language & Grammar
-
-* Avoid abbreviations: “it’s”, “weren’t”, “hasn’t”
-
-* Common grammatical errors:
-
-  * Mixing tenses
-  * Mixing active and passive voice
-  * Use LLMs to check/ correct
 
 ---
 
