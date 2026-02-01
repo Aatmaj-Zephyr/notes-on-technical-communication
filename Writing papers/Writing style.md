@@ -9,12 +9,22 @@
 ### Grammer tips
 
 1) Convert nouns to verbs  
-  - His verticality changed to horizontality → He fell down  
-  - This paragraph provides a conclusion of the description → This paragraph concludes the description  
-  - … recursively performs composition of edges → … recursively composes edges  
+    - His verticality changed to horizontality → He fell down  
+    - This paragraph provides a conclusion of the description → This paragraph concludes the description  
+    - … recursively performs composition of edges → … recursively composes edges  
 
 2) Avoid multiple adjectives  
-  - multiple double arrow edges → multiple edges with double arrows  
+    - multiple double arrow edges → multiple edges with double arrows
+
+
+3) Avoid abbreviations: “it’s”, “weren’t”, “hasn’t”
+
+4) Common grammatical errors:
+
+    * Mixing tenses
+    * Mixing active and passive voice
+    * Use LLMs to check/ correct
+
 
 ### Make sentences simpler
 Same idea can be expressed by several sentences.
