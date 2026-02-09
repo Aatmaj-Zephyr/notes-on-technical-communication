@@ -56,7 +56,7 @@
 
 ### Introducing the problem
 
-1. Unlike research. paper, there is no need to be dry and boaring
+1. Unlike research paper, there is no need to be dry and boaring
    1. Begin with a story
    2. Light hearted opening
    3. Establish real-world connection/motivation for the topic of your talk.
@@ -66,11 +66,19 @@
    7. Puzzle
 2. Description of input and output, what you are doing is a must
 
-
 ### Mode of PPT
 
 1. Various softwares available
    1. Google slides
    2. Latex
 2. Make sure to save your slides in PDF and PPTx format. (Carry backup pendrive)
-3.
+
+### More tricks
+
+#### Hyperlinking the supplementary slides
+
+You will have many (100+) slides in the end if you incroporate all the supplementary slides and FAQs, especially if there are many result images (computer vision). It is a wise idea to create hyperlinks in PPT and have a table of contents and other references which will help you click and go directly to the slide.  Eg you may display few results and keep the rest of the results in the supplementary slides and put a reference in the slide hyperlinked to the supplementary slides.
+
+#### Comics for motivation
+
+You can make a comic / graphic art which explains the need and motivation of the problem, then it will explain the need and the motivaiton in a fast and nice manner.
