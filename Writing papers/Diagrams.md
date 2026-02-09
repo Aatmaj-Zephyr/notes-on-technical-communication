@@ -1,24 +1,27 @@
 # Diagrams
 
-- Ensure that all diagrams are 
-	- High Quality PNG Export
-	- Store one infinitely scalable per images (SVG or TIkZ) format for the image (Exception: Drawio as you save the source) You mayneed to use the samediagrsm in a different view in the PPT (Eg converting horizontal into vertical etc
-	- support greyscale printing, especially graph lines
-     - If at a later stage you are required to submit to journal that doesnt support color this becomes real headache.
-     - Use different line styles (dots, dashes etc) + color
-     - If reviewer decides to print your paper then reviewer should be able to read all diagrams 
-	- Large font size relative to digram
-	- As compact as possible (Least white space)
-	- You have source code of the image (drawio, excel, code etc)
-- Best thing to do is to use drawio on VS code and save it as an editable image. Change the property to set zoom to 200%. 
+- Ensure that all diagrams are
+  - High Quality PNG Export
+  - Store one infinitely scalable per images (SVG or TIkZ) format for the image (Exception: Drawio as you save the source) You mayneed to use the samediagrsm in a different view in the PPT (Eg converting horizontal into vertical etc
+  - support greyscale printing, especially graph lines
+  - If at a later stage you are required to submit to journal that doesnt support color this becomes real headache.
+  - Use different line styles (dots, dashes etc) + color
+  - If reviewer decides to print your paper then reviewer should be able to read all diagrams
+  - Large font size relative to digram
+  - As compact as possible (Least white space)
+  - You have source code of the image (drawio, excel, code etc)
+- Best thing to do is to use drawio on VS code and save it as an editable image. Change the property to set zoom to 200%.
+- If you are taking a diagram from any source on the internet (Or someone's paper) then. make sure to note it down where you took it from. (Eg in. metadata of image) Comes handy later..
 - Always be space conscious while making flowchart. Paper, PPT - all needs you to be space conscious. Minimize space-make box shaped diagrams. Nottoo wide or not too long. Square is perfect for ppt as well as paper, but you may almost always need to create rectangularly long or wide diagrams.
 - Add as many graphical abstracts and diagrams as possible
 - Diagrams are a GREAT way of explaining concepts in least time when people are skimming through paper
-- They can form the best (and perhaps the only) hook for Type 4 people 
+- They can form the best (and perhaps the only) hook for Type 4 people
 - Saves time of reviewer in first pass.
 - Anyone scanning your paper will look at the figures and their captions, even if they do not read the text.
 - Captions must be present that will make the figure self-explainatory
-- Some journals demand "alt-text" for every image. It is good idea to add alt text in latex (or in latex commentys) and keep it ready. You can use LLMS to rephrase some part of the captions as the alt text.
+- Some journals demand "alt-text" for every image. It is good idea to add alt text in latex (or in latex commentys) and keep it ready. You can use LLMs to rephrase some part of the captions as the alt text.
+- Sometimes it may be difficult to accomodate everything in one flowchart. In that case, make k different flowcharts, label them as A,B,C... and then create one more high level flowchart which combines all of them together.
+- Sometime, you may need to make two different flowcharts, one at high level and one at lower level (with more details) in that case color code the blocks. Maintain consistency in the colors
 
 ### Graphical abstract
 
@@ -30,7 +33,8 @@ Graphical abstract is a diagram that will explain the entire paper's gist in a  
 - Some people will only see the graphical abstract and nothing else
 
 ### Diagrams checklist:
-- [ ] Relative Large Font 
+
+- [ ] Relative Large Font
 - [ ] Source Saved
 - [ ] SVG present
 - [ ] Color present
@@ -38,6 +42,7 @@ Graphical abstract is a diagram that will explain the entire paper's gist in a  
 - [ ] Alt text added?
 
 ### Graph Checklist
+
 - [ ] Axis Labelled
 - [ ] Units mentioned onboth axis
 - [ ] Legend added
