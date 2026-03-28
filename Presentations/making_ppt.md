@@ -48,11 +48,12 @@
 9. Try writing formulae in words rather than symbols. It is very difficult for audience to absorb lot of symbols. If you must use symbols - repeat the symbol definition on every slide where they are used
 10. Describe overall idea and structure: Try to convey intuition.
 11. Describe algorithms at a high level: Describe pictorially if possible.
-12. Consider top down style.
-13. Draw before and after pictures. Latex has packages for writing algorithms Manages indentation, highlights keywords.
-14. Omit unimportant details: I will only explain the first step of this proof, the other steps are routine and are described in the report I will only describe the second step of the algorithm .
-15. Simplify theorems/proofs: I will prove a simpler version in the talk; the paper contains a more general version, whose proof is much more complicated. I will describe an O(NlogN) algorithm in the talk; but it is possible to improve to O(N) using standard techniques- this is described in the paper.
-16. Use analogies and metaphors to explain complex concepts in a more relatable way.
+12. Color code wherever necessar
+13. Consider top down style.
+14. Draw before and after pictures. Latex has packages for writing algorithms Manages indentation, highlights keywords.
+15. Omit unimportant details: I will only explain the first step of this proof, the other steps are routine and are described in the report I will only describe the second step of the algorithm .
+16. Simplify theorems/proofs: I will prove a simpler version in the talk; the paper contains a more general version, whose proof is much more complicated. I will describe an O(NlogN) algorithm in the talk; but it is possible to improve to O(N) using standard techniques- this is described in the paper.
+17. Use analogies and metaphors to explain complex concepts in a more relatable way.
 
 ### Introducing the problem
 
