@@ -1,0 +1,5 @@
+### Citations
+1. In LaTeX, there is a library to create clickable cross references which give you land you to a page when you click. Use that library. 
+2. Use Zotero Export Bibliography. Click on the 'keep it Synced' option. Use tools like raycast to quickly search and insert citations.
+3. Dont put citations like this: "See Kakade (2003) for a full motivation of this performance measure." Kakade 2003 is a 154 page thesis! Instead, put a specific page number: "See Kakade (2003, page 23) for a full motivation of this performance measure." This is more helpful to the reader.
+4. If you are citing a paper, try to cite the original paper that introduced the idea instead of a later paper that used the idea. This is more helpful to the reader and gives credit to the original authors. For example, if you are citing the DDPG algorithm, cite the original DDPG paper by Lillicrap et al. (2015) instead of a later paper that used DDPG. Good idea to also cite a later paper eg a tutorial paper.
